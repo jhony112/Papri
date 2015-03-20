@@ -1,0 +1,533 @@
+{"Groups":[
+  {
+    "UniqueId": "Group-1",
+    "Title": "Love Greetings And Messages",
+    "Subtitle": "",
+    "ImagePath": "images/love/love_1.jpg",
+    "Description" : "Love E-cards",
+    "Items":
+    [
+      {
+        "UniqueId": "Group-1-Item-1",
+        "Title": "In Your Heart",
+		"Subtitle": "",
+       "ImagePath": "images/love/love8.jpg",
+        "Description" : "Rommantic/Promise",
+		"Content" : "I haven't been myself.\n Since I fell in love with you, \nmy whole world changed.\n I rediscovered the dreams I'd hidden in a drawer \nand found my priorities rearranged.\n i hope that the bond we forged shall ever remain \nfor I've placed my hope for tomorrow in your heart.\n I never want to be myself again." },
+      {
+        "UniqueId": "Group-1-Item-2",
+        "Title": "My Love Is Like..",
+        "Subtitle": "",
+        "ImagePath": "images/love/love2.jpg",
+		"Description" : "Romantic/Profession",
+"Content" : "I wish it didn't scare you so,\n when I reach out to let you know that my heart is dedicated and true to spending my whole life with you\n I wish I could show you with a tender touch \nthat I've never wanted anything so much\n I wish there was a way to make you see\n just how much you mean to me. \nFrom the start,\n you held a special place in my heart,\n and now I'm waiting for my life to begin,\n hoping you'll let my love in."},	   
+      {
+        "UniqueId": "Group-1-Item-3",
+        "Title": "Songs Of The Heart",
+        "Subtitle": "",
+        "ImagePath": "images/love/love3.jpg",
+		"Description" : "Romantic/Declaration",
+"Content" : "The world has changed. \n As the wind breaks\n against earth and sea\nit sings a new song, \nwhile the season sheds weary buds and the clouds \n gallop to a distant horizon.  But let it go \n let yesterday turn to ash,For we have today, \nand tomorrow together. \n And our love shall  turn the wind silver,\n For us, the earth  shall bear a rose."      },
+{
+        "UniqueId": "Group-1-Item-4",
+        "Title": "You Reached Deep",
+        "Subtitle": "",
+        "ImagePath": "images/love/love9.jpg",
+		"Description" : "Romantic/Ballad",
+"Content" : "You reached deep within my soul \nand drew out the dreams that had long been buried beneath doubt. \nYou overlooked the foolish part of my nature and saw qualities that no one else had cared to seek.\n You took my words and turned them into poetry.\n You made my heartbeat into a song\n You banished the darkness with your light\nYou brought me blessings like an answered prayer. \nAnd though there are no words strong enough to thank you for doing all of that, \nI will say, I love you!  " },
+      	  {
+        "UniqueId": "Group-1-Item-5",
+        "Title": "The Music of Love",
+        "Subtitle": "",
+        "ImagePath": "images/love/valentine.jpg",
+		"Description" : "Serenade/Romantic",
+"Content" : "I heard the music when true love called \n a song sent from heaven on silver wings.The whole world was dreaming,\n  wisps of light streaming,  as the stars spilled their magic upon you and me.\nThe tune was more lovely than the nightingale's song, more delicate than a rose weeping, yet as powerful as the sun leaping to shed golden ribbons in herald of dawn. \n  And I bow down before you,  the one my eyes have longed to behold,  my lonely heart pining,  love Light shining,  I swear that I shall love and adore you."      },
+      {
+        "UniqueId": "Group-1-Item-6",
+        "Title": "I Kissed Him",
+        "Subtitle": "",
+        "ImagePath": "images/love/rose.jpg",
+		"Description" : "Romantic",
+"Content" :"I kissed him  \n And I hoped the kiss would tell him just how much \n I love him \nhoped the movement of my lips transcended the deep emotion that churned in my breast \nand rocked me to the very depths of my soul\n     I kissed him! \n And I hoped that pressing  my lips to his  reassured him that\n  our bond is forever  and that he's  the greatest dream  of my life, \n      But to make sure, \n I better kiss him again! "  },
+	  {
+        "UniqueId": "Group-1-Item-7",
+        "Title": "Endless Beauty",
+        "Subtitle": "",
+        "ImagePath": "images/love/LOVE16.jpg",
+		"Description" : "Beauty/Rommantic",
+ "Content" : "I want endless beauty, \n sweetness and grace\n  with all the magic that glows  from some fairytale place. \n  I want a love that's faithful,\n  too precious to ever forsake\n  it must be unselfish,  \ngiving more than it takes. \n  This love I dream of  must be nothing short of divine, \n on a deeper level  than mortal man can define. \n  I want a love above all loves,  a love that's honest, \n believing, and true.  Such a love could only  come from God... \n and you!" },
+    {
+        "UniqueId": "Group-1-Item-8",
+        "Title": "All Of It",
+        "Subtitle": "",
+        "ImagePath": "images/love/love10.jpg",
+		"Description" : "Beauty/Rommantic/Pomise",
+"Content" : "Never fear \nthat our love is something I'll forget\n My love has been yours since the day we met.\n Though you merely paused long enough to smile a bit,\n you crept into my heart and helped yourself to all of it\n And i know i will \nCherish\nLove \nand respect you\n for as long as my heart \nBeats for You " } ,  
+   
+   
+    {
+        "UniqueId": "Group-1-Item-9",
+        "Title": "Flame Of Love",
+        "Subtitle": "",
+        "ImagePath": "images/love/flame.jpg",
+		"Description" : "Beauty/Rommantic/Pomise",
+"Content" :"You are my flame,\n Once red, now white Like the clouds That flit into heaven. You stand beside me, Holding the sun in your hand, And music comes freely to my heart, And the stars of yesterday Slide into an eclipse.\n As your fragrance cradles the air, I rise to new heights With the warmth of your smile. \nI cross the universe To hold your hand,\n And in a sparkling moment, \nI feel the perfection Of being \none with life."},
+   
+   
+
+    {
+        "UniqueId": "Group-1-Item-10",
+        "Title": "The Stars",
+        "Subtitle": "",
+        "ImagePath": "images/love/star_love.jpg",
+		"Description" : "Beauty/Rommantic/Pomise",
+  "Content" :" For as long as the stars exist,\n I'll be by your side. I'll be more than just a lover,\n I'll be your friend and guide. My heart will always carry you with tender loving care.\n I'd do anything for you and for the precious love we share. You'll never have to be alone\n I'll be there to calm your fears. I'll be by your side through happiness and tears.\n And as surely as the sun rises, my heart will be true,\n because for as long as forever,\n I'll love you."},
+
+   {
+        "UniqueId": "Group-1-Item-11",
+        "Title": "All of Me",
+        "Subtitle": "",
+        "ImagePath": "images/love/jlgnd.jpg",
+		"Description" : "Beauty/Rommantic/Pomise",
+		"Content" :"All of me\n Loves all of you\n Love your curves and all your edges\nAll your perfect imperfections\nGive your all to me\nI'll give my all to you\nlets put all the Cards on the table, \nyou will see they both showing hearts\nlets risk it all, though it's hard \ncos You're my end and my beginning\nEven when I lose I'm winning\nCause you give me all of YOU"},
+		{
+		"UniqueId": "Group-1-Item-12",
+        "Title": "The One",
+        "Subtitle": "",
+        "ImagePath": "http://www.passionup.com/images/heartpurple.jpg",
+		"Description" : "Beauty/Rommantic/Pomise",
+   "Content" : "I'm the one who will be there for you forever and a day\n I'll hold your hand and lift you up every step along the way.\nI live for the time we spend together,for each precious moment we share,and I'll always striveto show you just how much I care.I believe our friendship will grow through the years,and that in love we'll walk together,strong enough to face all fears.\nI will love you forever,\nwith all I have to give,because you'll always be the reason I live."},
+  {
+		"UniqueId": "Group-1-Item-13",
+        "Title": "While We Apart",
+        "Subtitle": "",
+        "ImagePath": "http://db1.passionup.com/poetry/poem24.jpg",
+		"Description" : "Beauty/Rommantic/Pomise",
+   "Content" : "While we're apart,I want you to keep me with you always,and think about me when you hear the wind sing and to imagine the warmth of my touch when the sun glows upon your cheeks\n.I want you to yearn for the day we'll be together each time the sun goes down,\nI want our love to flourish with unrequited fire and passion while we're apart,so that we can remain close in\n heart and soul"},
+		
+		{"UniqueId": "Group-1-Item-14",
+        "Title": "I Need You",
+        "Subtitle": "",
+        "ImagePath": "images/d1.jpg",
+		"Description" : "Beauty/Rommantic/Pomise",
+   "Content" : "I need you, darling.\nI love you so much.\n I spend my time dreaming of your tender touch\n.Life is so beautiful but nothing equals this\n I found something that I never knew--\neach day is more beautiful when someone loves you.\nAnd I'm so thankful for this gift of love.You're everythingthat I ever dreamed of.."},
+		
+	{"UniqueId": "Group-1-Item-15",
+        "Title": "Absolutely Divine",
+        "Subtitle": "",
+        "ImagePath": "http://db1.passionup.com/poetry/poem45.jpg",
+		"Description" : "Beauty/Rommantic/Pomise",
+   "Content" : "Our love is so great \nthat no words can define it,no poet can write it,no artist can design it.\nIt's a miracle beyond mortal conception,the closest thingto true perfection.\nIt's brighter than the heavens above and holds more beauty than I ever dreamed of.\nIt's ever unselfish,patient, and kind.It always give smuch more than it takes,and never quits,never forsakes\n-our love is absolutely divine."},
+   	
+	{"UniqueId": "Group-1-Item-16",
+        "Title": "Absolutely Divine",
+        "Subtitle": "",
+        "ImagePath": "images/d2.jpg",
+		"Description" : "Beauty/Rommantic/Pomise",
+   "Content" : "Our love is so great \nthat no words can define it,no poet can write it,no artist can design it.\nIt's a miracle beyond mortal conception,the closest thingto true perfection.\nIt's brighter than the heavens above and holds more beauty than I ever dreamed of.\nIt's ever unselfish,patient, and kind.It always give smuch more than it takes,and never quits,never forsakes\n-our love is absolutely divine."},
+
+
+   {
+	"UniqueId": "Group-1-Item-17",
+        "Title": "I can LIve",
+        "Subtitle": "",
+        "ImagePath": "himages/d3.jpg",
+		"Description" : "Beauty/Rommantic/Pomise",
+   "Content" : "I can live without so many things,but there's something truly special \nthat I wouldn't want to live without,\n something that gets me through anything life brings to my door,\nand makes each dayworth living...\nyour love!\nWith that, I truly have it all."},
+    {
+	"UniqueId": "Group-1-Item-18",
+        "Title": "My Husband",
+        "Subtitle": "",
+        "ImagePath": "images/d4.jpg",
+		"Description" : "Beauty/Rommantic/Pomise",
+   "Content" :" I'm always amazed that he loves me now even more than ever,\nhe desires me no less than he did the first year of our marriage.\nHe still thinks I'm beautiful like he did way back then.\nTime has changed me,but not his heart.\nAnd though many years have passed,he has never tired of my company.\nAnd I hope my husband knows how grateful I am for \nhis love and devotion."},
+		
+		{
+	"UniqueId": "Group-1-Item-19",
+        "Title": "My Husband",
+        "Subtitle": "",
+        "ImagePath": "http://db1.passionup.com/poetry/poem45.jpg",
+		"Description" : "Beauty/Rommantic/Pomise",
+   "Content" :" I'm always amazed that he loves me now even more than ever,\nhe desires me no less than he did the first year of our marriage.\nHe still thinks I'm beautiful like he did way back then.\nTime has changed me,but not his heart.\nAnd though many years have passed,he has never tired of my company.\nAnd I hope my husband knows how grateful I am for \nhis love and devotion."},
+		
+			{
+	"UniqueId": "Group-1-Item-20",
+        "Title": "Every Day",
+        "Subtitle": "",
+        "ImagePath": "http://passionup.com/images4/98068432.jpg",
+		"Description" : "Beauty/Rommantic/Pomise",
+   "Content" :"Every day,\n I thank God for making my dreams come true.\nI prayed to Him, and He sent me you.\nAnd God certainly knows this wistful heart,\nbecauseI've loved you \n from the very start."},
+
+   
+			{
+	"UniqueId": "Group-1-Item-21",
+        "Title": "Saved My Heart",
+        "Subtitle": "",
+        "ImagePath": "http://passionup.com/images3/10016699.jpg",
+		"Description" : "Beauty/Rommantic/Pomise",
+   "Content" :"I saved my heart for a very long time\nI had no one to give it to.\nAnd then you came into my life,and I knew my heart was meant for you.\nAnd nothing will ever make my heart stray,now that your love has come its way\nfor never more will my heart long now that \nit's where it belongs."},
+   	{
+	"UniqueId": "Group-1-Item-22",
+        "Title": "Magic of Love",
+        "Subtitle": "",
+        "ImagePath": "http://passionup.com/images3/10016699.jpg",
+		"Description" : "Beauty/Rommantic/Pomise",
+   "Content" :" I believe in the magic of love.\nI believe love makes anything possible\n.And I believe \nin you and me!\nWhen we're together,\nI feel like I can do anything.\n for magic...just looking into Your eyes\n Thats all i need!"},
+   {
+	"UniqueId": "Group-1-Item-23",
+        "Title": "Love for You",
+        "Subtitle": "",
+        "ImagePath": "http://www.passionup.com/images2/Flower0114.jpg",
+		"Description" : "Rommantic",
+   "Content" :"My love for you grows deeper \nwith each day that passes by.\nAnd every time I think of you,\nit's not hard to see why.\nI love you for your kind heart,and for all you do and say.\nI love you because you're there for me,every night and day.\nI love you cos you belive in me\nAnd no matter what tomorrow brings,\nI'll be by your side."},
+	
+	{
+	"UniqueId": "Group-1-Item-24",
+        "Title": " Heavens and Stars",
+        "Subtitle": "",
+        "ImagePath": "http://www.passionup.com/images2/Flower0114.jpg",
+		"Description" : "Rommantic/Admiration",
+   "Content" :" I own the heaven and the stars\nand the silvery moon--it's all mine when I look into your eyes \nand see the love reflected there.You take me to a distant shore where only true love exists\n.Yes, I own the heaven and the stars,\nand the silvery moon,and all that's wonderful,\nbecause you're a part of my life."},
+	
+	
+	{
+	"UniqueId": "Group-1-Item-25",
+        "Title": " I Will Dream",
+        "Subtitle": "",
+        "ImagePath": "http://www.passionup.com/images2/Flower0114.jpg",
+		"Description" : "Rommantic",
+   "Content" :" I dream of the next time \n I'll see you,and hear your voice.I think about you always.\nPictures of you dominate my thoughts,\nbringing about a smile at unexpected moments.\nI think of the thingsI'll tell youw hen we're together again,\ni miss you and wish you were here\n,but even though you're not,you still bring \nso much joy to my life."},
+	
+	{
+	"UniqueId": "Group-1-Item-26",
+        "Title": " When Its Real Love",
+        "Subtitle": "",
+        "ImagePath": "http://www.passionup.com/images2/Flower0114.jpg",
+		"Description" : "Promise/Dream",
+   "Content" :"  When it's real love\n nothing feels as good as being together \nReal love makes you long to share everything...\nand it makes you so happy that you feel like singing\nReal love soars inunexpectedly and makes your heart take flight.Real love is what I feel \nfor you."},
+	
+	
+	{
+	"UniqueId": "Group-1-Item-27",
+        "Title": " Love Is Beautiful",
+        "Subtitle": "",
+        "ImagePath": "http://passionup.com/wallpaper/images/lovedogswall50a.jpg",
+		"Description" : "Confession/Romantic",
+   "Content" :"  I'm sending you \nthis Message so that \nyou'll remember\n how wonderful love is, \nand how much \n I love you!"},
+	
+		
+		{
+        "UniqueId": "Group-1-Item-28",
+        "Title": "I Will Find You",
+        "Subtitle": "",
+        "ImagePath": "images/love/jlgnd.jpg",
+		"Description" : "Rommantic/Pomise",
+		"Content" :"If I could fly to my fondest dream,\n I'd find you. For you're all that's important to me,\n all that holds meaning in my life. \nYou're the flame ever burning bright in my heart that makes me thankful for each sunset,\n and you're the light in my soul that makes me look forward to each dawn. And this flame for you \nwill never fade."},
+ 
+
+ {
+        "UniqueId": "Group-1-Item-28",
+        "Title": "The Best Of everything",
+        "Subtitle": "",
+        "ImagePath": "http://passionup.com/images/beachlove2.gif",
+		"Description" : "Confession/Promise",
+		"Content" :"I don't need the best of everything.\nI could drive an ordinary car and live in an ordinary house.I could care lessabout movie stars and socialites,\nand forego the Paris lights.But when it comes to love,\nonly the best will do,which is why I became rich \nthe day I met you."},
+ 
+ {
+        "UniqueId": "Group-1-Item-29",
+        "Title": "Thank You",
+        "Subtitle": "",
+        "ImagePath": "images/love/jlgnd.jpg",
+		"Description" : "Appreciation/Rommance",
+		"Content" :"Thank you for\n turning an ordinary life into a fairy tale\nfor turning faint hope \ninto a dream come true.\nThank you for turning a smile \ninto a sanctuary where I can always take comfort.\nThank you for being more than just You...\nfor being my best friend."},
+
+
+   {
+        "UniqueId": "Group-1-Item-30",
+        "Title": "As Long As You Love Me",
+        "Subtitle": "",
+        "ImagePath": "images/love/jlgnd.jpg",
+		"Description" : "Rommantic/Pomise",
+   "Content" :"As long as you love me,\n I can do anything\n no dream is impossible,\n no star is too distant to reach. \nYou're my true love.\n I've been sent my own piece of heaven from above,\n wrapped in the wings of something divine and pure and fine. If I could capture all the stars, I'd send them to you,\n I hope you know how  much you always move and inspire me. \nYou're everything that LOVE is supposed to be."}
+  
+  
+  
+  
+  
+    ]
+  },
+  {
+    "UniqueId": "Group-2",
+    "Title": "Friendship Greetings And Messages",
+    "Subtitle": "",
+    "ImagePath": "images/friends/fr8.jpg",
+    "Description" : "Friendship E-cards",
+    "Items":
+    [
+      {
+        "UniqueId": "Group-2-Item-1",
+        "Title": "Joy Of Friendship",
+        "Subtitle": "",
+        "ImagePath": "images/friends/fr1.jpg",
+		 "Description" : "Friendship",
+"Content" :"My life has been touched by God today, \n for he saw to it to send a friend my way. \nAnd I want you to know, wherever you may be, how much joy your friendship has brought to me. Nothing can compare to the warmth of a friend, and I count you among my blessings at each day's end. \nSo thank you, friend\n for making me smile and\n sending some cheer across the miles." },
+      {
+        "UniqueId": "Group-2-Item-2",
+        "Title": "F.R.I.E.N.D.S",
+        "Subtitle": "",
+        "ImagePath": "images/friends/fr5.jpg",
+ "Description" : "Friendship",
+"Content" :"F -You Focused on my strengths, always accepting me for who I am, \nR- Reached deep inside my heart and filled it with the sunshine of a warm smile. \nI- Inspired me, reminding me of the beauty of the sunset.\nE- Encouraged me to follow my dreams even when the road was rough\nN- Never gave up on me--not for a single second.\nD-  Devoted your time to me and remained a constant in my life\n For these reasons, and many more,\n I call you friend.\nThank you, FRIEND!" },
+      {
+        "UniqueId": "Group-2-Item-3",
+        "Title": "Your Friend",
+        "Subtitle": "",
+        "ImagePath": "images/friends/fr11.jpg",
+		 "Description" : "Friendship/Promise",
+"Content" :"Though I don't have a solution for all of your problems,\n I'll listen.\n Though I can't take away your pain, \nI'll be there for you. \nThough I can't prevent you from falling, \nI'll offer a hand and help you stand on your feet.\n Though your happiness and success are not mine,\n I'll take pleasure in them.\n And I'll do all of this, \nbecause I'm your friend"  },
+
+ {
+        "UniqueId": "Group-2-Item-4",
+        "Title": "Visited By Angels",
+        "Subtitle": "",
+        "ImagePath": "images/friends/Angel4.jpg",
+		 "Description" : "Friendship/Prayer",
+"Content" : "I hope an angel of love visits you today and whispers in your ear that God hears you every time you pray\nI hope an angel of peace visits you tonight and touches your soul, \ninspiring dreams that are as bright as star light.\nI hope an angel of mercy visits you tomorrow and mends your heart, taking away all of your pain and sorrow.\nI hope an angel of light visits you every day bringing you endless joy\n and hope for the sunshine that's on the way."},
+ {
+        "UniqueId": "Group-2-Item-5",
+        "Title": "Angel in Heaven",
+        "Subtitle": "",
+        "ImagePath": "images/friends/angel1.gif",
+		 "Description" : "Friendship/Prayer",
+"Content" :"Angel in heaven, angel above, \ntouch my friends with God's special love. \nReveal all the gifts that they hold within, and walk beside them as a friend.\n Hold their hands when life gets tough and smooth out the road should it get rough.\n Stand beside them,\n and guide them all of their days.\n And shower them with heaven's Blessings\n all the days of thier lives."},
+
+ {
+        "UniqueId": "Group-2-Item-6",
+        "Title": "Friend In ME",
+        "Subtitle": "",
+        "ImagePath": "images/friends/fr2.gif",
+		 "Description" : "Friendship/Promise",
+"Content" :"Some days are so tough that you'll stare at the sky endlessly, waiting for the sun to shine..but no luck. And no matter where you go, or what you do, you just can't find lasting comfort... or a friendly face. \nBut when those days come,remember someone out there cares about you and is rooting for you.\n I'll always be there to walk beside you. \nSo remember that \nyou have a friend in ME."},
+
+ {
+        "UniqueId": "Group-2-Item-7",
+        "Title": "So Glad",
+        "Subtitle": "",
+        "ImagePath": "images/friends/fr3.gif",
+		 "Description" : "Friendship/Promise",
+	"Content" :"I may not have all of the answers\n... and sometimes I don't know which direction I should take...\n But I do know that it feels good to be your friend...\n I'm so glad that fate brought us together,\n because having you in my life\n has been a blessing."},
+	{
+        "UniqueId": "Group-2-Item-8",
+        "Title": "My Dear Friend",
+        "Subtitle": "",
+        "ImagePath": "images/friends/fr8.jpg",
+		 "Description" : "Friendship/Declaration",
+"Content" :"I have a dear friend\n who's so very nice to know.\n There's something about her that makes my spirit glow.\n I believe our meeting was no accident. \nThe angels sent her to me; that's evident.\n And I cherish her for the great things she does and for her warm heart too.\n In case you haven't guessed it--\n my dear friend is YOU!"},
+
+{
+        "UniqueId": "Group-2-Item-9",
+        "Title": "Always an Angel",
+        "Subtitle": "",
+        "ImagePath": "images/friends/fr10.jpg",
+		 "Description" : "Friendship/Declaration",
+"Content" :"I will always think of you as my angel.\n You were there to comfort and inspire me.\n You helped me heal and gave me the gift of hope through the warmth of your heart.\n And I hope, there's always a special and precious angel watching over you and yours the way\n that you've watched over me."},
+
+{
+        "UniqueId": "Group-2-Item-10",
+        "Title": "Beautiful You",
+        "Subtitle": "",
+        "ImagePath": "images/friends/fr7.gif",
+		 "Description" : "Friendship/Promise",
+"Content" :"Sometimes life can be scary.\n There's not enough love in the world... and sometimes it seems like there are monsters at every turn.\n But it makes me all the more thankful that \nI found something beautiful in you."},
+ {
+        "UniqueId": "Group-2-Item-11",
+        "Title": "My Dear Friend",
+        "Subtitle": "",
+        "ImagePath": "images/friends/fn3.jpg",
+		 "Description" : "Friendship/Promise",
+"Content" :" I have a dear friend\n who's so very nice to know. \nThere's something about her\n that makes my spirit glow\n. I believe our meeting was no accident\n The angels sent her to me that's evident.\n And I cherish her for the great things she does\n and for her warm heart too.\n In case you haven't guessed it--\n  my dear friend is\n YOU!"},
+ {
+        "UniqueId": "Group-2-Item-12",
+        "Title": "Our Friendship",
+        "Subtitle": "",
+        "ImagePath": "images/friends/fr04.jpg",
+		 "Description" : "Friendship/Heartfelt",
+"Content" :" I wanted to thank you\n but I couldn't explain, what it means\n to have a friend to share life's joys and pains.\n It's good to know our friendship is one of endless devotion, \nforged out of respect and every kind emotion\n it's patient and forgiving,\n it's ever faithful even when the world condemns,\n and sparkles in the darkness like a rare and precious gem\nI can't tell you how much, your friendship means to me,\n but thank you,\n MY DEAR FRIEND!"},
+ 
+ {
+        "UniqueId": "Group-2-Item-13",
+        "Title": "Our Friendship",
+        "Subtitle": "",
+        "ImagePath": "images/friends/fn01.jpg",
+		 "Description" : "Friendship/Heartfelt",
+"Content" :" I want to express my appreciation to you, \nbut I don't know where to start.\n I want you to know how grateful I am .\n You're such a beautiful person so thoughtful and so kind...\n You're like a four-leaf clover, so rare and hard to find. \n Because you have a \nspecial way to make me smile.\n Thank You"},
+ {
+        "UniqueId": "Group-2-Item-14",
+        "Title": "What Friendship Is About",
+        "Subtitle": "",
+        "ImagePath": "images/friends/fn6.jpg",
+		 "Description" : "Friendship/Heartfelt",
+ "Content" :"Sharing and caring \nis what friendship is all about. No matter how big or how small,\n a friend's act of kindness always leaves a lasting touch of gold in the heart.\n And no matter how different friends are, or how far apart, the sunshine and happiness they lend always mends the gaps between them.And I'm sending this greeting, because I want you to know how thankful I am to \nhave a friend like you."},
+ {
+        "UniqueId": "Group-2-Item-15",
+        "Title": "Sweet Dreams Tonight...  ",
+        "Subtitle": "",
+        "ImagePath": "images/friends/fn00.gif",
+		 "Description" : "Friendship/Heartfelt",
+   "Content" :" I'm wishing you sweet dreams tonight...\n dreams that are full of warmth and romance; dreams in which you have nothing to lose when you take a chance.\n Fly to the stars. \nKiss the shivering moon. \nListen to the angels' harps, \nand dance to heaven's tune.\n And while you dream, don't be afraid to pretend, that your happiness will never end. For come dawn's light, when from your dreams you must go, the joy and inspiration you found upon the stars will remain aglow."},
+ 
+  {
+        "UniqueId": "Group-2-Item-16",
+        "Title": "Your Light  ",
+        "Subtitle": "",
+        "ImagePath": "images/friends/fn02.jpg",
+		 "Description" : "Friendship/Heartfelt",
+"Content" :" You entered my life and opened my eyes \nto the beauty that's all around me. \nYou've taught me to believe in miracles.\n And I thank you \nfor sharing the warmth of your \nloving light with me."} 
+ 
+ 
+ 
+ 
+ ]
+  },
+  {
+    "UniqueId": "Group-3",
+    "Title": "Occassion Greetings And Messages",
+    "Subtitle": "",
+    "ImagePath": "images/bday/bd3.jpg",
+    "Description" : "Ocassion E-cards",
+    "Items":
+    [
+      {
+        "UniqueId": "Group-3-Item-1",
+        "Title": "Happy Birthday",
+        "Subtitle": "",
+        "ImagePath": "images/bday/bd1.jpg",
+    "Description" : "Greeting/Birthday",
+"Content" :"I hope your birthday is great!\n I hope you have lots of ice cream...\nBalloons...\nAnd more balloons...\nAnd a great big cake with candles aflame!\nI hope you hear good music by the score...\nand have  the best birthday ever! "    },
+      {
+        "UniqueId": "Group-3-Item-2",
+        "Title": "Miss You Dad",
+        "Subtitle": "",
+        "ImagePath": "images/bday/father.jpg",
+		"Description" : "Greeting/Parent",
+		"Content" : "Dad,\n I miss so much about you that I can't possibly list all of the reasons, but I think I miss hearing your voice most of all.\n I cry because I miss you so much, but sometimes I smile,\n because I remember all of \nthe wonderful times we spent together, \n and I think about the day we will be reunited. Through each tear, I'll remain hopeful, because I have faith that you'll return safely to us. And though I miss you terribly, I'm so proud of your courage,\n and glad that you're my father. \nYou are truly my hero!"},     
+      {
+        "UniqueId": "Group-3-Item-3",
+        "Title": "Warm Memories",
+        "Subtitle": "Item Subtitle: 3",
+        "ImagePath": "images/bday/loss.jpg",
+		"Description" : "Greeting/Sympathy",
+"Content" : "I m sorry about your loss.\n There's nothing I can say to take away your grief, \nbut know that I'm here for you. I'll lend you the strength you need to get through this difficult time. And I'll pray that the pain you're feeling now will soon be replaced by\n warm memories."      },
+      {
+        "UniqueId": "Group-3-Item-4",
+        "Title": "With Love",
+        "Subtitle": "",
+        "ImagePath": "images/bday/cake.jpg",
+		"Description" : "Greeting/Marriage",
+"Content" : "Love is trust and joy\n. It's as pure as a white rose,\n as precious as fine silk, \nand as glorious and everlasting as the blue sky.\n No matter what happens in your life,\n should you rise to great heights or should you fall, \nlove will give you strength and inspiration. \nIf you have love in your heart,\n you have it all. \nCongratulations.\n May you find much happiness together"
+      },
+      {
+        "UniqueId": "Group-3-Item-5",
+        "Title": "Garden Of Love",
+        "Subtitle": "",
+        "ImagePath": "images/bday/rings.jpg",
+	"Description" : "Greeting/Marriage",
+		"Content" : "Love is like a garden\n it thrives on the sunshine that fills your soul when you're together.\n It's in every warm smile you exchange and entwines itself around your heart,\n leaving a sparkle behind. \n It's rooted in warm memories of yesterday, and grows on dreams you plant for a happy future together.\n It's full and breathtaking, and beautiful to every eye.\nCongratulations.\n May the seeds you've planted together blossom into \na beautiful garden."
+
+
+      },
+      {
+        "UniqueId": "Group-3-Item-6",
+        "Title": "Wedding Day",
+        "Subtitle": "",
+        "ImagePath": "images/bday/wed2.jpg",
+		"Description" : "Greeting/Marriage",
+	"Content" : "It's your wedding day\n a dream come true, the building of a future beyond \n 'I do.'\n And I hope the day flows with laughter and love, the beginning of happiness you've both dreamed of.\n And I hope it's a day you'll both ever cherish, with love and warmth that will never perish.\n May all paths lead to happiness wherever you should stray\nBest wishes to you both for \na beautiful future together!."
+
+      },
+      {
+        "UniqueId": "Group-3-Item-7",
+        "Title": "Flower of My Life",
+        "Subtitle": "",
+        "ImagePath": "images/bday/b6.jpg",
+"Description" : "Greeting/Anniversary",
+"Content" :"Loving you makes each day a special holiday.\n You're everything to me,\n all I've ever dreamed of, my passionate lover, and my best friend. You're the flower of my life, my reason for living. And I look forward to the days ahead, knowing that you'll be here to share my life with me.\n Happy Anniversary!"      },
+     {
+        "UniqueId": "Group-3-Item-8",
+        "Title": " Passionate and Pure..",
+        "Subtitle": "",
+        "ImagePath": "images/bday/b4.jpg",
+"Description" : "Greeting/Anniversary",
+  "Content" :" True love is white, \nas pure as a newborn soul,\n as pure as a dove circling heaven, the most beautiful emotion known to mankind. True love is red, for it's a passion that makes you yearn to give, yearn to live. It's a need to be together, to create a bond that will withstand any weather. \nI hope your love will always be passionate and pure,\n your marriage an everlasting bond of two beautiful souls.\n Congratulations."},
+    {
+        "UniqueId": "Group-3-Item-9",
+        "Title": " Happy Graduation..",
+        "Subtitle": "",
+        "ImagePath": "images/bday/b8.jpg",
+"Description" : "Greeting/Graduation",
+"Content" :"You're the best\n You passed the test.\n And I'm so happy to know \nthat your dream has come true\n because no one is more deserving of success than a wise\ncaring\n trustworthy\n and loving friend like you.\nCongratulations on your graduation\nWish You the very Best! "},
+     {
+        "UniqueId": "Group-3-Item-10",
+        "Title": " Congratulations",
+        "Subtitle": "",
+        "ImagePath": "http://passionup.com/images2/2913003ee3.jpg",
+"Description" : "Greeting/New-Baby",
+"Content" :"Congratulations\n on the special gift you've received from heaven\n. I know that you'll both be excellent parents,\n because you have the key ingredient for successful parenting\n-- love and lots of it. \nMay that bond of love keep you and your family\n warm all through your lives \nand bring you all \nendless joy."}, 
+   
+   
+     {
+        "UniqueId": "Group-3-Item-11",
+        "Title": "Happy 25th Aniversary",
+        "Subtitle": "",
+        "ImagePath": "images/bday/b9.jpg",
+"Description" : "Greeting/Anniversary",
+   "Content" :"Your marriage\n has been the blending of two lives\nand two hearts \n a perfect union from the very start.\n Your commitment of caring and sharing from the time you said, \nI do \n has built a lifetime of beautiful memories for both of you. May you continue to find happiness together, with enough love in your hearts to last \nforever."},
+    {
+        "UniqueId": "Group-3-Item-12",
+        "Title": "Death Is Not An End",
+        "Subtitle": "",
+        "ImagePath": "images/bday/b9.jpg",
+"Description" : "Greeting/Death",
+  "Content" :" Death is not an end\n but a journey home.\n Someday, you'll be reunited with your loved one. \nUntil then, \nyour loved one will live on in your heart, for those we've truly loved could never be forgotten.\n And I hope that the love you feel will give you strength through these difficult times. \nHave faith that the sun will shine again."}
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+    ]
+  
+  }
+]
+}
